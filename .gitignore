@@ -1,2 +1,4 @@
 /node_modules
 !node_modules/bootstrap/dist/css/bootstrap.min.css
+!node_modules/vue/dist/vue.js
+!/node_modules/vue-resource/dist/vue-resource.js
